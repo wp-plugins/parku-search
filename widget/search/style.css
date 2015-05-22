@@ -1,0 +1,38 @@
+.parku-widget-search button.parku-submit {
+    height:35px;
+    line-height:35px;
+    padding:0 10px;
+    border:none;
+    border-radius:3px;
+    background:#0075bf;
+    color:#fff;
+    text-shadow:none;
+    float:right;
+}
+
+.parku-widget-search button.parku-submit:hover {
+    border:none;
+    background:#197cc6;
+    color:#fff;
+    text-shadow:none;
+    cursor:pointer
+}
+
+.parku-widget-search div.parku-location {
+    overflow:hidden;
+    padding-right:.4em;
+}
+
+.parku-widget-search input.parku-location-input {
+    width: 100%;
+    height:35px;
+    line-height:35px;
+    font-size:18px;
+    margin:0;
+    padding:7px;
+    box-sizing:border-box;
+    color:#666;
+    border:1px solid #ccc;
+    border-radius: 3px;
+}
+
